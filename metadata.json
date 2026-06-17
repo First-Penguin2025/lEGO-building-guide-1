@@ -1,0 +1,6 @@
+{
+  "name": "レゴ作品図鑑",
+  "description": "子どもたちが作ったお気に入りのレゴ作品をスマートフォンやパソコンで撮影・記録して、自分だけのオシャレな図鑑を作れるウェブアプリケーションです。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
